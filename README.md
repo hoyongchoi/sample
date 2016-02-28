@@ -1,2 +1,2 @@
 # sample
-sample respoistory \r\nTest 
+sample respoistory Test 
